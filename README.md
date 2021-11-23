@@ -1,3 +1,6 @@
+# Este proyecto es la base para poder hacer la tarea/actividad 5 convertidora two Activities
+
+
 TwoActivitiesLifecycle - Solution Code
 ======================================
 
