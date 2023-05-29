@@ -1,4 +1,4 @@
-# Este proyecto es la base para poder hacer la tarea/actividad 5 convertidora two Activities
+# Este proyecto es cortesia de google developres
 
 
 TwoActivitiesLifecycle - Solution Code
