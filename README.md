@@ -1,5 +1,5 @@
-# Este proyecto es cortesia de google developres
-
+# Este proyecto es cortesia de google developers
+https://github.com/google-developer-training
 
 TwoActivitiesLifecycle - Solution Code
 ======================================
